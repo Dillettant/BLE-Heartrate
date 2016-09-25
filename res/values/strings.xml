@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeartRate</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_peripheral">Peripheral</string>
+    <string name="title_activity_hrdemo">HRDemoActivity</string>
+    <string name="hello">Hello World, HumanSignalActivity!</string>
+    <string name="startmeasure">Start measure</string>
+    <string name="stopmeasure">Stop measure</string>
+    <string name="heartRate">"Heart Rate: "</string>
+    <string name="beatperminute">bpm</string>
+    <string name="signalrangeform">Signal Range Form</string>
+    <string name="signalrangeto">Signal Range To</string>
+    <string name="signalfftanalyse">Analyze</string>
+    <string name="signalanalysistitle">Fast Fourier Transforn</string>
+    <string name="signalvaluefromtitle">From:</string>
+    <string name="signalvaluetotitle">To:</string>
+    
+
+</resources>
